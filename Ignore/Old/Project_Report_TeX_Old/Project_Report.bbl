@@ -1,0 +1,45 @@
+\begin{thebibliography}{1}
+
+\bibitem{brownlee2016time}
+Jason Brownlee.
+\newblock Time series prediction with lstm recurrent neural networks in python
+  with keras, 2016.
+
+\bibitem{dunis2006modelling}
+Christian~L Dunis, Jason Laws, and Ben Evans.
+\newblock Modelling and trading the gasoline crack spread: A non-linear story.
+\newblock {\em Derivatives Use, Trading \& Regulation}, 12(1-2):126--145, 2006.
+
+\bibitem{goodfellow2016deep}
+Ian Goodfellow, Yoshua Bengio, Aaron Courville, and Yoshua Bengio.
+\newblock {\em Deep learning}, volume~1.
+\newblock MIT press Cambridge, 2016.
+
+\bibitem{quantopian_cointegration}
+Delaney Granizo-Mackenzie and Maxwell Margenot.
+\newblock Quantopian lecture series: Integration, cointegration, and
+  stationarity.
+
+\bibitem{leung2018constructing}
+Tim Leung and Hung Nguyen.
+\newblock Constructing cointegrated cryptocurrency portfolios for statistical
+  arbitrage.
+\newblock 2018.
+
+\bibitem{olah2015understanding}
+Christopher Olah.
+\newblock Understanding lstm networks, 2015.
+\newblock {\em URL http://colah. github. io/posts/2015-08-Understanding-LSTMs},
+  2015.
+
+\bibitem{van2017pairs}
+RWJ van~der Have, DJC van Dijk, HJWG Kole, Ir~HE Eisma, and G~Diepen.
+\newblock Pairs trading using machine learning: An empirical study.
+\newblock 2017.
+
+\bibitem{vidyamurthy2004pairs}
+Ganapathy Vidyamurthy.
+\newblock {\em Pairs Trading: quantitative methods and analysis}, volume 217.
+\newblock John Wiley \& Sons, 2004.
+
+\end{thebibliography}
